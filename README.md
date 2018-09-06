@@ -1,2 +1,4 @@
-#Learning Git
+# Learning Git
+## Git Learning
+### LeArNiNg GiT
 I am learning Git
